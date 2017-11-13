@@ -490,7 +490,7 @@ end
 Also, we need to add resource routing for uploads controller in config/**routes.rb**,
 
 ```ruby
-resource 'uploads', only: [:create, :destroy]
+resources 'uploads', only: [:create, :destroy]
 ```
 
 You can code **sendFile** and **deleteFile** function and update app/assets/javascripts/**summernote-init.coffee** as the follows:
