@@ -13,6 +13,9 @@
 //= require jquery3
 //= require popper
 //= require bootstrap
+//= require summernote/summernote-bs4
+//= require summernote/locales/ko-KR
+//= require summernote-init
 //= require rails-ujs
 //= require turbolinks
 //= require_tree .
