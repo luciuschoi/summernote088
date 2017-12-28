@@ -56,5 +56,5 @@ gem 'tzinfo-data', platforms: [:mingw, :mswin, :x64_mingw, :jruby]
 gem 'jquery-rails', '~> 4.3.1'
 gem 'bootstrap', '~> 4.0.0.beta2.1'
 gem 'simple_form'
-gem 'summernote-rails', github: 'summernote/summernote-rails'
+gem 'summernote-rails', '~> 0.8.8.0'
 gem 'carrierwave'
